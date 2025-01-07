@@ -1,0 +1,4 @@
+00:00:01.000 欢迎使用字幕程序！|Welcome to the subtitle app!
+00:00:03.500 这是一段双行字幕。|This is a dual-line subtitle.
+00:00:06.000 支持中文和英文。|Supports Chinese and English.
+00:00:08.500 请享受这个程序！|Please enjoy this program!
