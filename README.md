@@ -4,3 +4,8 @@
 pip install pyqt5
 pip install pyinstaller
 ```
+
+# on Windows
+```bash
+subtitle_app.exe --file subtitles.txt --color yellow --position bottom
+```
